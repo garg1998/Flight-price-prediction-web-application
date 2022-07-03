@@ -1,0 +1,36 @@
+body {
+  color:black;
+  text-align: center;
+  background-image: url('flight.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  
+}
+
+.navbar {
+  background-color: #333333;
+}
+
+a {
+  color: #f1f9f9;
+}
+
+a:hover {
+  color: #f0f0f0;
+}
+.btn-secondary
+{background-color: #3b3737;
+ text-align: center;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+
+
+
+
+
