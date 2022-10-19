@@ -528,7 +528,7 @@ test.head()
 
 
 # # Regression modelling
-# I am going to apply 10 regression models and judge them on the basis of RMSE value since the value is not much influenced by outliers.
+# I am going to apply 10 regression models and judge them on the basis of RMSE value.
 # The models are:
 # * LinearRegression
 # * LGBM Regressor
